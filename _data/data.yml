@@ -77,32 +77,37 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Front-end Web Developer
+    time: 2019 - Present
+    company: Proveedora de Servicios Profesionales S.A. de C.V.(Super Kisko), Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Development of applicationes and basic design for user interface to internal applicatios,that manages confidential data by REST Apis.
+        - Agile development
+        - Development of upgrades into web technologies for old software.
+        - Development of server side rendering web applications using Next.js and React.js.
+        - Development of progressive web applications using Next.js and React.js.
+        - Development of reusable compoents for react applications.
+        - Application of styles using SASS.
+        - Consumption of REST Apis to feed applications.
+        - Use of encriptation protocols to protect the transference of data.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Front-end Web Developer
+    time: 2020
+    company: Freelance, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Development of "Selflu", a web aplication for an small building enterprise, to manage providers, clients, materials and delivery dates.
+        - Development of progressive web applications using React.js and SASS.
+        - Development and design of user interface.
+        - Development of temporal Express apis to test the project.
 
+  - role: Front-end Web Developer
+    time: 2020
+    company: Freelance, Colima
+    details: |
+      Development of "Selflu", a web aplication for an small building enterprise, to manage providers, clients, materials and delivery dates.
+        - Development of progressive web applications using React.js and SASS.
+        - Development and design of user interface.
+        - Development of temporal Express apis to test the project.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -132,7 +137,7 @@ skills:
       level: 40%
 
     - name: SQL
-      level: 30%
+      level: 20%
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
