@@ -102,27 +102,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: React.js
+    - name: React
       level: 100%
 
-   - name: React Native
-      level: 100%
+    - name: React Native
+      level: 50%
 
-    - name: Next.js
+    - name: Next
       level: 80%
 
-    - name: Node.js
-      level: 50%
+    - name: Node
+      level: 60%
 
-    - name: Express.js
-      level: 50%
-
-    - name: Java
-      level: 40%
+    - name: Express
+      level: 60%
 
     - name: C#
-      level: 50%
+      level: 40%
 
+    - name: SQL
+      level: 30%
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
