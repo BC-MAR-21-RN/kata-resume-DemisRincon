@@ -60,15 +60,9 @@ career-profile:
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2015 - 2019
+    time: 2009 - 2012
     details: |
       Bachelor degree in Telematics Engineering got by outstanding performance
-
-- degree: Bachelor Degree
-    university: Tecnologico de Colima
-    time: 2011 - 2013
-    details: |
-      Didn't got the degree in Mecatronics Engineering 
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -108,26 +102,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: React.js
-      level: 100%
+    - name: Python
+      level: 20%
 
-   - name: React Native
-      level: 100%
-
-    - name: Next.js
-      level: 80%
-
-    - name: Node.js
-      level: 50%
-
-    - name: Express.js
-      level: 50%
-
-    - name: Java
+    - name: PyTorch
       level: 40%
 
-    - name: C#
-      level: 50%
+    - name: Tensorflow
+      level: 60%
+
+    - name: Caffe
+      level: 80%
+
+    - name: Matlab
+      level: 100%
+
+    - name: C/C++
+      level: 40%
 
 # NO MODIFICAR
 footer: >
