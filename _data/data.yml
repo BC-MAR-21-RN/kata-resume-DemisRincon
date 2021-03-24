@@ -65,12 +65,6 @@ educationcomplete:
     details: |
       Bachelor degree in Telematics Engineering got by outstanding performance
 
-- degree: Bachelor Degree
-    university: Tecnológico de Colima
-    time: 2011 - 2014
-    details: |
-       Did not got degree in Mecatronics Engineering
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Lead Developer
