@@ -100,14 +100,29 @@ experiences:
         - Development and design of user interface.
         - Development of temporal Express apis to test the project.
 
-  - role: Front-end Web Developer
-    time: 2020
-    company: Freelance, Colima
+  - role: Mainframe Developer
+    time: May 2019 - Jul 2019
+    company: MGSC S.A. de C.V.(Tata Consultancy Services), Zapopan Jalisco
     details: |
-      Development of "Selflu", a web aplication for an small building enterprise, to manage providers, clients, materials and delivery dates.
-        - Development of progressive web applications using React.js and SASS.
-        - Development and design of user interface.
-        - Development of temporal Express apis to test the project.
+      Development small fragments of COBOL rountines for batch operations.
+        - Development rountines in COBOL.
+
+  - role: Front-end Web Developer
+    time: Mar 2019 - May 2019
+    company: MGSC S.A. de C.V.(Tata Consultancy Services), Zapopan Jalisco
+    details: |
+      Development , creation and modeling of components in React.js for a web application related to banking services.
+         - Development of reusable compoents for react applications.
+         - Consumption of REST Apis to feed applications.
+
+  - role: Front-end Web Developer
+    time: Dec 2018 - Mar 2019
+    company: MGSC S.A. de C.V.(Tata Consultancy Services), Zapopan Jalisco
+    details: |
+      Development and integration of a module to a internl page for registration of new wmployees of an hotel.
+         - Development of modules in Angular 2.0.
+         - Consumption of Apis done in JAVA 1.7.
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
