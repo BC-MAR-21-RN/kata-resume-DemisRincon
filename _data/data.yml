@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Demis Alberto Rincón Martínez # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: React Front-End Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
@@ -161,13 +161,19 @@ skills:
       level: 60%
 
     - name: Express
-      level: 60%
+      level: 40%
 
     - name: C#
       level: 40%
 
-    - name: SQL
+    - name: GitHub
+      level: 40%
+
+    - name: Firebase
+      level: 40%
+
+    - name: DB
       level: 20%
 # NO MODIFICAR
 footer: >
-  BrightCoders Academy
+  Demis Rincón
