@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advanced # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -59,6 +59,26 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+  - degree: React Native Developer
+    university: Bright Coders Academy
+    time: 2021 - present
+    details: |
+      Full course for React Native Developer
+
+        - Development of full-stack applications with React Native and firebase.
+        - Good practice writing JavaScript code (SOLID).
+        - Redux and Context API implementation.
+        - Usage of tools like Git, GitHub, Code Climate, Sonar Qube, Slack
+  - degree: Full-stack MERN Developer
+    university: Dev Education
+    time: 2019 - 2020
+    details: |
+      Full-stack MERN curse, imparted by Carlos Santa Roldán author of the book React Cookbook: Create dynamic web apps with React using Redux, Webpack, Node.js, and GraphQL
+        
+        - Full-stack implementations for web applications.
+        - Build applications whit React.js, Next.js, node.js, Webpack, and express.js.
+        - Good practices writing JavaScript code.
+        - Redux implementation.
   - degree: Bachelor Degree
     university: Universidad de Colima
     time: 2015 - 2019
@@ -69,11 +89,6 @@ educationcomplete:
         - Got several courses like CCNA, Java SE8 , Unity development.
         - Development of severals projects with differents technologies.
         - Got technical certificate of design and development of ubiquitous games.
-  - degree: Bachelor Degree
-    university: Tecnologico de Colima
-    time: 2011 - 2014
-    details: |
-      Didn't got the degree in Mecatronics Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -81,45 +96,45 @@ experiences:
     time: 2019 - Present
     company: Proveedora de Servicios Profesionales S.A. de C.V.(Super Kisko), Colima
     details: |
-      Development of applicationes and basic design for user interface to internal applicatios,that manages confidential data by REST Apis.
+      Development of applications and basic design for the user interface to internal applications, that manages confidential data by REST Apis.
         - Agile development
         - Development of upgrades into web technologies for old software.
-        - Development of server side rendering web applications using Next.js and React.js.
+        - Development of server-side rendering web applications using Next.js and React.js.
         - Development of progressive web applications using Next.js and React.js.
-        - Development of reusable compoents for react applications.
+        - Development of reusable components for react applications.
         - Application of styles using SASS.
         - Consumption of REST Apis to feed applications.
-        - Use of encriptation protocols to protect the transference of data.
+        - Use of encryption protocols to protect the transference of data.
 
   - role: Front-end Web Developer
     time: 2020
     company: Freelance, Colima
     details: |
-      Development of "Selflu", a web aplication for an small building enterprise, to manage providers, clients, materials and delivery dates.
+      Development of "Selflu", a web application for a small building enterprise, to manage providers, clients, materials, and delivery dates.
         - Development of progressive web applications using React.js and SASS.
         - Development and design of user interface.
-        - Development of temporal Express apis to test the project.
+        - Development of temporal Express APIs to test the project.
 
   - role: Mainframe Developer
     time: May 2019 - Jul 2019
     company: MGSC S.A. de C.V.(Tata Consultancy Services), Zapopan Jalisco
     details: |
-      Development small fragments of COBOL rountines for batch operations.
-        - Development rountines in COBOL.
+      Development of small fragments of COBOL routines for batch operations.
+        - Development routines in COBOL.
 
   - role: Front-end Web Developer
     time: Mar 2019 - May 2019
     company: MGSC S.A. de C.V.(Tata Consultancy Services), Zapopan Jalisco
     details: |
-      Development , creation and modeling of components in React.js for a web application related to banking services.
-         - Development of reusable compoents for react applications.
+      Development, creation, and modeling of components in React.js for a web application related to banking services.
+         - Development of reusable components for react applications.
          - Consumption of REST Apis to feed applications.
 
   - role: Front-end Web Developer
     time: Dec 2018 - Mar 2019
     company: MGSC S.A. de C.V.(Tata Consultancy Services), Zapopan Jalisco
     details: |
-      Development and integration of a module to a internl page for registration of new wmployees of an hotel.
+      Development and integration of a module to an internal page for registration of new employees of a hotel.
          - Development of modules in Angular 2.0.
          - Consumption of Apis done in JAVA 1.7.
 
