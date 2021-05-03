@@ -104,6 +104,7 @@ experiences:
         - Development of reusable components for react applications.
         - Application of styles using SASS.
         - Consumption of REST Apis to feed applications.
+        - Usage of Redux and Context API.
         - Use of encryption protocols to protect the transference of data.
 
   - role: Front-end Web Developer
@@ -121,6 +122,7 @@ experiences:
     details: |
       Development of small fragments of COBOL routines for batch operations.
         - Development routines in COBOL.
+        - JCL routines.
 
   - role: Front-end Web Developer
     time: Mar 2019 - May 2019
